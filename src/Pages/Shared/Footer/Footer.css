@@ -1,0 +1,10 @@
+.footer-section{
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.724);
+    color: white;
+}
+.footer-section h6{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
